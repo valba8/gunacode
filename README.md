@@ -1,5 +1,7 @@
 # Gunacode
 
+![Gunacode](images/gunacode_icon.png)
+
 A theme for VS Code inspired by Guna ([https://github.com/poucotm/Guna](https://github.com/poucotm/Guna))
 
 This extension includes two variants:

@@ -2,9 +2,10 @@
   "name": "gunacode-theme",
   "displayName": "Gunacode",
   "description": "Gunacode color theme for VS Code.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Valentin Barral",
   "license": "MIT",
+  "icon": "./images/gunacode_icon.png",
   "publisher": "valentinbarral",
   "repository": {
     "type": "git",
