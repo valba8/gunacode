@@ -15,4 +15,4 @@ Gunacode Light:
 ![Gunacode Light — Editor](images/gunacode_light.png)
 
 ## Installation
-Install from the VS Code Extensions Marketplace.
+Install from the [VS Code Extensions Marketplace](https://marketplace.visualstudio.com/items?itemName=valentinbarral.gunacode-theme).
