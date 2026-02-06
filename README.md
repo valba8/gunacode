@@ -5,7 +5,7 @@ A theme for VS Code inspired by Guna ([https://github.com/poucotm/Guna](https://
 This extension includes two variants:
 - Gunacode Dark
 - Gunacode Light
-- 
+
 Gunacode Dark:
 ![Gunacode Dark — Editor](images/gunacode_dark.png)
 
