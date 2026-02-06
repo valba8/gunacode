@@ -1,0 +1,33 @@
+{
+  "name": "gunacode-theme",
+  "displayName": "Gunacode",
+  "description": "Gunacode color theme for VS Code.",
+  "version": "0.0.1",
+  "author": "Valentin Barral",
+  "license": "MIT",
+  "publisher": "local",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valba8/gunacode"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gunacode Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gunacode-dark-color-theme.json"
+      },
+      {
+        "label": "Gunacode Light",
+        "uiTheme": "vs",
+        "path": "./themes/Gunacode-light-color-theme.json"
+      }
+    ]
+  }
+}

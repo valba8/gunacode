@@ -1,0 +1,13 @@
+**/.vscode/**
+**/.git/**
+**/.github/**
+**/node_modules/**
+**/*.log
+**/*.vsix
+
+# Keep only what the extension needs
+!package.json
+!README.md
+!themes/**
+!images/**
+!LICENSE*
